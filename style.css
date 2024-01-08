@@ -1,0 +1,44 @@
+body{
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centro {
+    text-align: center;
+}
+
+.quadrado {
+    margin-top: 40px;
+    width: 300px; /* Ajuste o tamanho conforme necessário */
+    height: 300px; /* Ajuste o tamanho conforme necessário */
+    background:#f5f5f5;
+    /*background-color: #3498db; Cor de fundo */
+    text-align: center;
+    border-radius: 15px; /* Raio da borda arredondada */
+}
+
+.botao1 {
+    text-decoration: none;
+    margin-top: 100px;
+    padding: 10px 20px;
+    color: #fff;
+    background-color:	#4682B4;
+    border-color: #4682B4;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.botao2 {
+    text-decoration: none;
+    margin-top: 20px;
+    padding: 10px 20px;
+    color: #fff;
+    background-color:	#4682B4;
+    border-color: #4682B4;
+    border-radius: 5px;
+
+.img1 {
+    margin-top: 100px;
+}
