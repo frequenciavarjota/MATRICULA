@@ -1,4 +1,5 @@
-function abrirLink() {
-    var url = "https://forms.gle/pJkE2HYTpBxZbuG98";
-    window.open(url, "_blank");
+function redirect(){
+    window.location.href = "https://www.google.com/"
 }
+
+redirect()
