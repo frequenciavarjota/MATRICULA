@@ -1,5 +1,5 @@
 function redirect(){
-    window.location.href = "https://www.google.com/"
+    window.location.href = "https://sistemasme.cloud"
 }
 
 redirect()
